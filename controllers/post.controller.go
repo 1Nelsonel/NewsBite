@@ -9,7 +9,6 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/wpcodevo/golang-gorm-postgres/models"
 	"gorm.io/gorm"
-
 )
 
 type PostController struct {
